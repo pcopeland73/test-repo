@@ -8,6 +8,6 @@ so are you reading in this on the website, or on my computer?
 
 I am typing this on github.com
 
-too bad the commasnd thingy didnt work out
+too bad the wsl or/and git bash didnt work out
 
 
